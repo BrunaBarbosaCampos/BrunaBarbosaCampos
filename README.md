@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Bruna Campos!
 
-<!--
-**BrunaBarbosaCampos/BrunaBarbosaCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
 
-Here are some ideas to get you started:
+- 🔍 **Analista de Qualidade (QA)** com experiência em automação de testes.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 💡 Apaixonada por tecnologia, qualidade de software e aprendizado constante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias & Ferramentas
+
+- **Linguagens**: Ruby, JavaScript  
+- **Frameworks de Teste**: Cypress, Capybara, Cucumber, Playwright  
+- **Controle de Versão**: Git & GitHub  
+
+### 📂 Projetos em destaque
+
+- [Testes Automatizados com Cypress - Swag Labs](https://github.com/BrunaBarbosaCampos/Projeto-Cypress-Swag-Labs) - Projeto pessoal de testes end-to-end (E2E) desenvolvido com o framework Cypress no site de testes Swag Labs
+
+### 📫 Contato
+
+- 📧 **E-mail**: brunacampos60216@gmail.com
+- 🔗 [LinkedIn](linkedin.com/in/bruna-campos-892567212)   
+
+Vamos trocar ideias sobre QA e desenvolvimento? Me chame! 😃
