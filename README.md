@@ -19,6 +19,6 @@
 ### 📫 Contato
 
 - 📧 **E-mail**: brunacampos60216@gmail.com
-- 🔗 [LinkedIn](linkedin.com/in/bruna-campos-892567212)   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bruna-campos-892567212/)   
 
 Vamos trocar ideias sobre QA e desenvolvimento? Me chame! 😃
